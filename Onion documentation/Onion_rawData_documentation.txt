@@ -1,0 +1,16 @@
+Onion_subj**_trial***_(target width),(speed change).csv
+Description: time series data in experimental trial
+Column: leader position(x), leader position(y), follower position(x), follower position(y), follower yaw, pitch, roll, time stamp
+row: data in each frame (90Hz)
+
+
+
+Onion_freewalk_subj**_s*_trial***.csv
+Description: time series data in freewalk trials
+Column: leader position(x), leader position(y), follower position(x), follower position(y), follower yaw, pitch, roll, time stamp
+row: data in each frame (90Hz)
+
+
+
+Onion_subjXX_IPD_(eye distance measured by oculus rift).txt
+empty
